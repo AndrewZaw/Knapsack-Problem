@@ -9,8 +9,8 @@ In this specific algorithm, it is assumed the total value we are looking to maxi
 
 ```
 C = int
-S = array
-V = array
+S = []
+V = []
 
 maxProductWrapper(C,S,V)
 ```
